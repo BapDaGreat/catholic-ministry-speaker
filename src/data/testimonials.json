@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "quote": "Julian brought an extraordinary combination of deep theological clarity and genuine pastoral warmth to our Lenten Parish Mission. Over 650 parishioners filled the church each night, and the lines for Confession stretched well past 10 PM. He has a rare gift for making high theology accessible to the heart.",
+    "author": "Rev. Thomas M. Callahan, V.F.",
+    "role": "Pastor & Dean",
+    "organization": "St. Francis Xavier Catholic Church",
+    "location": "Metairie, Louisiana",
+    "category": "parishes",
+    "event": "3-Night Lenten Parish Mission",
+    "year": "2026",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "quote": "As keynote speaker for our Diocesan Catechetical Assembly, Julian held 900+ catechists and parish leaders in rapt attention. He didn't just give a motivational talk; he gave them a profound theological vision of why their work matters in eternity. We booked him for our Clergy Study Day the following morning.",
+    "author": "Dr. Sarah D. Montgomery",
+    "role": "Director of Evangelization & Catechesis",
+    "organization": "Diocese of Tyler",
+    "location": "Tyler, Texas",
+    "category": "dioceses",
+    "event": "Annual Diocesan Faith Assembly",
+    "year": "2025",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "quote": "High school educators carry heavy emotional and spiritual burdens. Julian led our all-faculty retreat with remarkable empathy, humor, and intellectual weight. Our teachers walked away feeling seen, renewed, and recommitted to our Catholic school mission. An unforgettable day.",
+    "author": "Michael R. Brennan, Ed.D.",
+    "role": "President & Head of School",
+    "organization": "Jesuit College Preparatory",
+    "location": "Dallas, Texas",
+    "category": "schools",
+    "event": "Annual Faculty In-Service Retreat",
+    "year": "2025",
+    "featured": true
+  },
+  {
+    "id": "4",
+    "quote": "At our Men's Conference, men don't want fluff—they want authentic challenge. Julian challenged 1,200 Catholic men to step into spiritual fatherhood and courageous holiness. His authenticity and storytelling brought the room to its feet, then to its knees in Eucharistic Adoration.",
+    "author": "Dcn. Christopher Vance",
+    "role": "Conference Chairman",
+    "organization": "Gulf Coast Catholic Men's Fellowship",
+    "location": "Mobile, Alabama",
+    "category": "retreats",
+    "event": "Gulf Coast Men's Conference",
+    "year": "2026",
+    "featured": true
+  },
+  {
+    "id": "5",
+    "quote": "Julian facilitated our pastoral council during a contentious parish clustering process. His spiritually grounded approach and objective listening completely defused tensions and helped our team craft a five-year pastoral plan that all three parishes embraced with genuine enthusiasm.",
+    "author": "Very Rev. Patrick J. Landry",
+    "role": "Pastor & Episcopal Vicar",
+    "organization": "St. Joseph & Holy Rosary Parishes",
+    "location": "Lafayette, Louisiana",
+    "category": "parishes",
+    "event": "Strategic Leadership Facilitation",
+    "year": "2025",
+    "featured": false
+  },
+  {
+    "id": "6",
+    "quote": "In twenty years of campus ministry, Julian's retreat for our collegiate leaders was among the top three ever delivered. Students stayed for two hours after the closing benediction just asking theological questions. He bridges tradition and contemporary culture with mastery.",
+    "author": "Sister Mary Elizabeth, O.P.",
+    "role": "Director of Catholic Campus Ministry",
+    "organization": "Tulane Catholic Center",
+    "location": "New Orleans, Louisiana",
+    "category": "schools",
+    "event": "Collegiate Leadership Weekend",
+    "year": "2024",
+    "featured": false
+  }
+]

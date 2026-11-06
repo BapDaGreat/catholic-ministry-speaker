@@ -1,0 +1,125 @@
+{
+  "offerings": [
+    {
+      "id": "parish-missions",
+      "category": "Parishes",
+      "tag": "Parish Renewal",
+      "title": "Parish Missions & Evenings of Reflection",
+      "tagline": "Rekindling the spiritual heart of the local parish family through preaching, prayer, and reconciliation.",
+      "description": "Multi-night or single-evening sacramental experiences tailored to the liturgical season (Advent, Lent, Feast Days). Each session incorporates evocative preaching, adoration with guided contemplation, and opportunities for confession and Eucharistic adoration.",
+      "popularThemes": [
+        "Unveiled: Rediscovering the Real Presence in the Holy Eucharist",
+        "From Maintenance to Mission: Awakening the Royal Priesthood of the Laity",
+        "The Healing Touch of Mercy: Encountering Christ in Broken Places",
+        "Living as Pentecost People in a Post-Christian Culture"
+      ],
+      "bestFor": "Pastors seeking to re-energize Sunday attendance, foster parish unity, and cultivate a culture of Eucharistic adoration.",
+      "icon": "Church"
+    },
+    {
+      "id": "diocesan-conferences",
+      "category": "Dioceses & Conferences",
+      "tag": "Major Convocations",
+      "title": "Diocesan Keynotes & Leadership Convocations",
+      "tagline": "Dynamic, theologically substantive keynotes that inspire clergy, catechists, and ministry leaders.",
+      "description": "Inspiring general assemblies, men's and women's conferences, deacon convocations, and catechist certification days. Julian delivers polished, intellectually engaging presentations rooted in Scripture, Catholic Tradition, and contemporary evangelization best practices.",
+      "popularThemes": [
+        "Courageous Fidelity: Shepherding with Apostolic Hope Today",
+        "The Catechist as Mystagogue: Leading Souls from Doctrine to Encounter",
+        "Brothers in the Breach: Reclaiming Catholic Fatherhood & Virtue",
+        "Daughters of Grace: The Feminine Genius in Church and Culture"
+      ],
+      "bestFor": "Diocesan Evangelization Directors, Men's/Women's Conference Committees, and Vicar Generals.",
+      "icon": "Users"
+    },
+    {
+      "id": "school-workshops",
+      "category": "Catholic Schools",
+      "tag": "Faculty & Students",
+      "title": "Faculty Retreats & Student Faith Rallies",
+      "tagline": "Formation that reminds educators of their noble vocation and engages the next generation with authentic truth.",
+      "description": "Inspiring in-service retreats for Catholic school teachers and administrators, as well as high school and university campus ministry days. Julian speaks directly to the unique spiritual fatigue educators face, rekindling their passion as ministers of Catholic identity.",
+      "popularThemes": [
+        "More Than a Subject: Catholic Identity as the Heart of Education",
+        "Sanctifying the Classroom: The Teacher as Spiritual Mentor",
+        "Unshakable: Navigating Faith, Doubts, and Culture for High Schoolers",
+        "The Truth Will Set You Free: Intellectual Foundations of Catholic Morality"
+      ],
+      "bestFor": "Catholic School Superintendents, High School Principals, and Campus Ministers.",
+      "icon": "GraduationCap"
+    },
+    {
+      "id": "pastoral-facilitation",
+      "category": "Strategic Leadership",
+      "tag": "Pastoral Facilitation",
+      "title": "Parish Council & Leadership Team Facilitation",
+      "tagline": "Guided discernment and strategic envisioning for pastoral councils, parish staffs, and deaneries.",
+      "description": "Structured, spiritually anchored facilitation sessions designed to help parish leadership move past gridlock, discern the Holy Spirit's promptings, articulate measurable pastoral goals, and align resources behind genuine evangelization.",
+      "popularThemes": [
+        "Discerning Parish Vision: A 5-Year Pastoral Roadmap",
+        "Collaboration in Ministry: Unifying Clergy, Staff, and Lay Volunteers",
+        "Pastoral Planning for Merging and Clustered Communities",
+        "Communication Architecture: Inviting Families Back to Church"
+      ],
+      "bestFor": "Pastors, Pastoral Councils, and Leadership Teams undergoing transition or strategic renewal.",
+      "icon": "Compass"
+    }
+  ],
+  "formats": [
+    {
+      "id": "keynote",
+      "name": "Keynote Address",
+      "duration": "60 – 90 Minutes",
+      "description": "High-impact, spiritually charged presentation followed by an optional 20-minute moderated Q&A. Ideal as the anchor keynote for conferences and assemblies.",
+      "deliverables": [
+        "Pre-event consultation call with planning team",
+        "Customized presentation slide deck / handout outline",
+        "Full AV coordination & microphone rider requirements",
+        "Social media promotional audio/video teaser"
+      ]
+    },
+    {
+      "id": "half-day",
+      "name": "Half-Day Reflection or Workshop",
+      "duration": "3 – 4 Hours",
+      "description": "Two structured teaching presentations interspersed with quiet prayer, group reflection questions, and table discussion. Perfect for Saturday morning parish retreats or school in-service days.",
+      "deliverables": [
+        "Two presentation modules with discussion guides",
+        "Printable reflection participant workbooks",
+        "Facilitator notes for small group leaders",
+        "Closing guided prayer or Holy Hour outline"
+      ]
+    },
+    {
+      "id": "full-day",
+      "name": "Full-Day Leadership Gathering",
+      "duration": "6 – 8 Hours",
+      "description": "An immersive day-long formation experience encompassing three key sessions, Eucharistic Adoration, interactive strategic breakout workshops, and wrap-up action planning.",
+      "deliverables": [
+        "Three comprehensive keynote modules",
+        "Breakout strategy templates & action planning sheets",
+        "Post-event executive summary report for pastor/committee",
+        "One follow-up coaching call with leadership team"
+      ]
+    },
+    {
+      "id": "weekend-mission",
+      "name": "Weekend Parish Mission / Retreat",
+      "duration": "2.5 – 3 Days (Fri – Sun)",
+      "description": "The quintessential Catholic parish revival. Julian preaches all Sunday Masses, leads evening conferences Sunday through Tuesday, and assists in coordinating Confessions and Eucharistic Adoration with the parish clergy.",
+      "deliverables": [
+        "Preaching at all vigil and Sunday weekend Masses",
+        "2 to 3 consecutive evening mission talks (75 min each)",
+        "Parish bulletin blurbs, pulpit announcements, and social flyers",
+        "Complete liturgy planning guide for music & altar ministries"
+      ]
+    }
+  ],
+  "inclusions": [
+    "Pre-event planning consultation with pastor and event chairs",
+    "Tailored message crafted to your diocese or parish's specific pastoral year theme",
+    "Digital marketing toolkit (custom flyers, bulletin announcements, social graphics)",
+    "Letter of Good Standing and testimonial letters from the Archdiocese of New Orleans",
+    "Post-event resources and recommended reading lists for attendees"
+  ]
+}

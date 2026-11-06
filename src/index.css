@@ -1,0 +1,129 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+  --ease-drawer: cubic-bezier(0.32, 0.72, 0, 1);
+}
+
+/* Mobile-Native Platform Baseline (per Emil Kowalski & mobile-native skill) */
+html {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+}
+
+/* Prevent auto-zoom on iOS by enforcing 16px minimum on all form controls */
+input,
+textarea,
+select {
+  font-size: 16px !important;
+}
+
+/* Eliminate 300ms tap delay and text selection on interactive elements */
+button,
+a,
+[role="button"],
+.interactive-control {
+  touch-action: manipulation;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+}
+
+/* Press feedback: Instant response on pointer-down with subtle 0.97 scale */
+button:active:not(:disabled),
+.pressable:active {
+  transform: scale(0.97);
+  transition: transform 120ms var(--ease-out);
+}
+
+/* Safe Area Inset Support */
+.pt-safe {
+  padding-top: env(safe-area-inset-top, 0px);
+}
+.pb-safe {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+/* Hover Gate for Fine Pointers (prevents sticky hover states on touch screens) */
+@media (hover: hover) and (pointer: fine) {
+  .hover-lift {
+    transition: transform 220ms var(--ease-out), box-shadow 220ms var(--ease-out);
+  }
+  .hover-lift:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 28px -4px rgba(42, 38, 31, 0.12);
+  }
+  .hover-lift-sm:hover {
+    transform: translateY(-1px);
+  }
+}
+
+/* Editorial Serif & Display Typography Tracking */
+.font-display {
+  font-family: 'Cormorant Garamond', 'Cinzel', Georgia, serif;
+  letter-spacing: -0.015em;
+  line-height: 1.1;
+}
+
+.font-caps-sub {
+  font-family: 'Cinzel', serif;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+/* Custom delicate borders & linen textures */
+.border-gold-subtle {
+  border-color: rgba(194, 147, 62, 0.28);
+}
+
+.bg-parchment-pattern {
+  background-image: radial-gradient(rgba(194, 147, 62, 0.08) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+/* Glassmorphism Navigation Bar per Apple Design */
+.glass-nav {
+  background: rgba(250, 249, 246, 0.88);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border-bottom: 1px solid rgba(206, 195, 178, 0.35);
+}
+
+.glass-nav-dark {
+  background: rgba(11, 18, 32, 0.9);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border-bottom: 1px solid rgba(194, 147, 62, 0.2);
+}
+
+/* Stagger animation utilities (30-60ms stagger) */
+@keyframes fadeInSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInSlideUp 400ms var(--ease-out) forwards;
+}
+
+/* Accessible Reduced Motion Support */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

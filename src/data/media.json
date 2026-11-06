@@ -1,0 +1,95 @@
+{
+  "videos": [
+    {
+      "id": "v1",
+      "title": "The Sacramental Imagination in a Digital Age",
+      "event": "Eucharistic Revival Keynote — Archdiocese of Atlanta",
+      "duration": "28:45",
+      "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "thumbnail": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&q=80&w=900",
+      "summary": "Exploring how modern distraction dulls our spiritual senses and how the Catholic sacramental worldview awakens our capacity to encounter Christ in the silence of the Eucharist."
+    },
+    {
+      "id": "v2",
+      "title": "Apostolic Courage: Moving Parishes from Maintenance to Mission",
+      "event": "National Catholic Leadership Conclave — New Orleans, LA",
+      "duration": "41:10",
+      "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "thumbnail": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80&w=900",
+      "summary": "Practical strategies for pastors and lay leadership teams looking to awaken baptismal responsibility and build intentional discipleship pathways."
+    },
+    {
+      "id": "v3",
+      "title": "The Father's Heart: Healing Spiritual Fatherhood",
+      "event": "Gulf Coast Catholic Men's Conference — Mobile, AL",
+      "duration": "34:20",
+      "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "thumbnail": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&q=80&w=900",
+      "summary": "A rallying address to Catholic men on prayer, emotional vulnerability before the Lord, and defending family sanctity through sacrificial love."
+    }
+  ],
+  "audio": [
+    {
+      "id": "a1",
+      "title": "Episode 42: Sacred Architecture, Silence & Southern Mysticism",
+      "show": "The Sacramental Wonder Podcast",
+      "duration": "46 mins",
+      "spotifyUrl": "https://open.spotify.com",
+      "summary": "A rich discussion on how historical French Quarter churches teach contemplative theology through light, bells, and altar architecture."
+    },
+    {
+      "id": "a2",
+      "title": "Lenten Reflection: The Agony in the Garden & Surrender",
+      "show": "Notre Dame Seminary Homily Archive",
+      "duration": "18 mins",
+      "spotifyUrl": "https://open.spotify.com",
+      "summary": "Meditation on Christ's prayer in Gethsemane and the interior surrender necessary for fruitful Christian leadership."
+    },
+    {
+      "id": "a3",
+      "title": "Equipping the Next Generation for Intellectual Faith",
+      "show": "Catholic Education Today Podcast",
+      "duration": "32 mins",
+      "spotifyUrl": "https://open.spotify.com",
+      "summary": "Interview discussing why moral relativism crumbles when Catholic educators teach theology as an encounter with ultimate beauty."
+    }
+  ],
+  "pressKit": {
+    "oneSheetPdf": "#download-one-sheet",
+    "letterOfGoodStanding": "#download-mandatum",
+    "avRider": {
+      "microphone": "Wireless hands-free lavalier or countryman earset microphone (preferred over handheld)",
+      "videoProjection": "16:9 HDMI projection for keynote visuals with audio return from laptop",
+      "stageSetup": "Small podium or cocktail-style standing table for Bible and water glass; open walking space",
+      "recordingPolicy": "Live audio/video recording permitted for parish archives with prior written consent"
+    },
+    "headshots": [
+      {
+        "id": "h1",
+        "title": "Standard Formal Press Headshot (Portrait)",
+        "resolution": "4200 x 2800 px (300 DPI)",
+        "url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=1000",
+        "description": "Recommended for event programs, diocese newspapers, and web banners."
+      },
+      {
+        "id": "h2",
+        "title": "Pulpit / Stage Speaking Action Shot",
+        "resolution": "3840 x 2160 px (300 DPI)",
+        "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&q=80&w=1000",
+        "description": "Recommended for posters, flyers, and social media announcements."
+      },
+      {
+        "id": "h3",
+        "title": "Casual Outdoor New Orleans Portrait",
+        "resolution": "3600 x 2400 px (300 DPI)",
+        "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=1000",
+        "description": "Recommended for youth and young adult event promotion."
+      }
+    ],
+    "bios": {
+      "short": "Julian R. Moreau, M.T.S., is a Catholic speaker, retreat leader, and pastoral facilitator based in New Orleans, Louisiana. He holds a Master of Theological Studies from Notre Dame Seminary and has served parishes, dioceses, and schools across the United States for over 16 years, preaching on Eucharistic renewal, sacramental imagination, and apostolic discipleship.",
+      "medium": "Julian R. Moreau, M.T.S., is a Catholic evangelist, retreat master, and diocesan consultant rooted in the historic spiritual heritage of New Orleans, Louisiana. Holding a Master of Theological Studies (Summa Cum Laude) in Systematic Theology from Notre Dame Seminary, Julian combines intellectual orthodoxy with warm Southern storytelling. Over the past sixteen years, he has keynoted over 180 parish missions, diocesan assemblies, and Catholic school convocations nationwide, guiding communities toward vibrant sacramental faith and apostolic mission.",
+      "long": "Julian R. Moreau, M.T.S., is a nationally recognized Catholic speaker, retreat director, and pastoral facilitator based in New Orleans, Louisiana. Formed in classical philosophy and Catholic theology at Loyola University and Notre Dame Seminary, Julian earned his Master of Theological Studies with highest honors, specializing in Sacramental Ecclesiology and St. Augustine. Having served as a parish director of evangelization, high school campus minister, and strategic consultant, he brings grounded realism and liturgical reverence to every engagement. Julian has led parish missions, diocesan assemblies, and clergy days across 42 dioceses. He resides in New Orleans with his wife Claire and their four children."
+    }
+  }
+}
